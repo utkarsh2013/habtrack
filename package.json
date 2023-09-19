@@ -1,0 +1,21 @@
+{
+  "name": "backend-habit-tracker",
+  "version": "1.0.0",
+  "description": "This is Basic Habit Tracking Application for Users to Track Daily Habits for a week and this file is Readme for this Web Application.  It's a Web App built with Node.js and EJS. It allows users to define habits and track their progress on a daily basis for a week. ## Contributed By:- Arpan Choudhury ![image](https://github.com/DataWorker2001/Habit-Tracker-Backend/assets/123379937/5c854218-a61c-4142-8715-1720fa48de2a)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Utkarsh",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongo": "^4.6.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "expresss": "^0.0.0",
+    "mongoose": "^7.3.2"
+  }
+}
