@@ -86,6 +86,4 @@ This project is licensed under the GNU General Public License.<br/>
 ## Acknowledgements<br/>
 The libraries and resources that you used in the development of this project are Visual Studio Code and MongoDB Cloud database finally with render for deployment.<br/>
 
-## Contact<br/>
-1. Email - arpanchoudhury.iitjee@gmail.com<br/>
-2. Project Link: https://github.com/DataWorker2001/Habit-Tracker-Backend.<br/>
+
